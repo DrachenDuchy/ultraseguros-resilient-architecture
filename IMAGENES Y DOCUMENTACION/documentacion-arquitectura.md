@@ -49,6 +49,18 @@ El uso de logs estructurados en formato JSON facilita el análisis posterior med
 
 ---
 
+## Diagrama de Arquitectura (Modelo C4)
+
+El siguiente diagrama representa la arquitectura del sistema utilizando el **modelo C4**, mostrando:
+
+- El contexto del sistema.
+- Los contenedores principales.
+- Los componentes internos de la función Lambda.
+- El flujo de solicitudes, degradación y recuperación automática.
+
+![Diagrama de Arquitectura C4](DIAGRAMA_C4.png)
+
+---
 ## Atributo de Calidad Priorizado
 
 ### Resiliencia
